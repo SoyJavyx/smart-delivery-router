@@ -1,7 +1,6 @@
 # SmartDelivery Router - Sistema de Planificación de Rutas Urbanas
 
-Simulador interactivo y motor de cálculo de rutas óptimas para logística de última milla (*last-mile delivery*). Este proyecto forma parte de mi portafolio profesional de desarrollo de software, concebido para demostrar habilidades sólidas en fundamentos de ciencias de la computación, diseño orientado a objetos riguroso e integración Full Stack sin dependencias de frameworks externos.
-
+Simulador interactivo y motor de cálculo de rutas óptimas para logística. Este proyecto forma parte de mi portafolio profesional de desarrollo de software.
 
 
 ## Problemática que Resuelve
